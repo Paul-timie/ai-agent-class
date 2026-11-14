@@ -1,4 +1,4 @@
-# FinMail Agent — UI/UX Product Requirements Document(I change something here to show my student new push)
+# FinMail Agent — UI/UX Product Requirements Document(Now i'm using ai for the git)
 
 ```
 Product Name:   FinMail Agent
